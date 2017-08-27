@@ -1,0 +1,6 @@
+framework module Pods_AutoApp {
+  umbrella header "Pods-AutoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
